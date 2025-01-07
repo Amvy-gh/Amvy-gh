@@ -3,7 +3,7 @@ Hi all, I'm Anjes, a student of Informatics Engineering at ITERA with a passion 
 
 
 ## 🌱 Currently Learning<br>
-- Game Development<br> <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- Game Development <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - C# and Unity Engine<br>
 - Game Design Principles<br>
 
