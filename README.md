@@ -1,4 +1,4 @@
-## 💫 Introduce
+# 💫 Introduce<br>
 Hi all, I'm Anjes, a student of Informatics Engineering at ITERA with a passion for gaming 🎮.  Aspiring to become a game developer, I'm always looking for ways to combine my love for games with my technical skills. <br>
 
 ## 🌱 Currently Learning<br>
