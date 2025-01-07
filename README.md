@@ -1,11 +1,13 @@
 # 💫 Introduce<br>
 Hi all, I'm Anjes, a student of Informatics Engineering at ITERA with a passion for gaming 🎮.  Aspiring to become a game developer, I'm always looking for ways to combine my love for games with my technical skills. <br>
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🌱 Currently Learning<br>
+
+## 🌱 Currently Learning<br> <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - Game Development<br>
 - C# and Unity Engine<br>
 - Game Design Principles<br>
+
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vlamorr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anjes_bermana) 
