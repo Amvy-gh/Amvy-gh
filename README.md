@@ -1,9 +1,11 @@
+ <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 # 💫 Introduce<br>
 Hi all, I'm Anjes, a student of Informatics Engineering at ITERA with a passion for gaming 🎮.  Aspiring to become a game developer, I'm always looking for ways to combine my love for games with my technical skills. <br>
 
 
 ## 🌱 Currently Learning<br>
-- Game Development <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- Game Development<br>
 - C# and Unity Engine<br>
 - Game Design Principles<br>
 
