@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Amvy-gh&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Amvy-gh&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
   <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Amvy-gh&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
 </div>
 
