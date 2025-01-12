@@ -56,10 +56,9 @@
 <!-- GitHub Stats Section -->
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Amvy-gh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffd2&icon_color=00ffd2&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amvy-gh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffd2&text_color=FFFFFF&layout=compact" alt="Most Used Languages"/>
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Amvy-gh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffd2&icon_color=00ffd2&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amvy-gh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffd2&text_color=FFFFFF&layout=compact" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
