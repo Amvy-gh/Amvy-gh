@@ -54,20 +54,13 @@
 </div>
 
 <!-- GitHub Stats Section -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Amvy-gh&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Amvy-gh&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Amvy-gh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffd2&icon_color=00ffd2&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amvy-gh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffd2&text_color=FFFFFF&layout=compact" alt="Most Used Languages"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amvy-gh&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Most Used Languages"/>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="max-height: 200px" alt="banner"/>
