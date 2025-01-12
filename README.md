@@ -22,7 +22,7 @@
 - 🎓 Currently studying **Informatics Engineering** at **ITERA**
 - 💻 Aspiring **Full-Stack Web Developer** with a passion for building interactive and scalable websites
 - 🌱 On a journey to master **Full-Stack Web Development**, including front-end and back-end technologies
-- ⚡ Fun fact : When I'm not coding, im sleeping
+- ⚡ Fun fact, **when I'm not coding, im sleeping**
 
 <!-- Current Learning Section -->
 ## 🌱 Currently Learning 
