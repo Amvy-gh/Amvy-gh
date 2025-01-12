@@ -27,7 +27,7 @@
 <!-- Current Learning Section -->
 ## 🌱 Currently Learning 
 
-- 🎯 **Full-Stack Web Development** - Building robust web applications with both front-end and back-end technologies
+- 🎯 **Full-Stack Web Development** - Building web applications with both front-end and back-end technologies
 - 💻 **HTML, CSS, JavaScript** - Crafting beautiful and responsive user interfaces
 - 🛠 **Node.js, Express, MongoDB** - Strengthening my back-end development skills
 - ⚙️ **React & Tailwind CSS** - Improving UI/UX design with modern front-end tools
